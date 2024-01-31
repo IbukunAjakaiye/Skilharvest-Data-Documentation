@@ -24,6 +24,7 @@ This includes some basic queries that was used for this analysis.
 ````
 GOOGLE SHEETS
 
+````
 QUERY(A:H,"SELECT C,H,F WHERE (C = 'Binder' OR C = 'Pencil') and F=2015",1)
 
 ````
@@ -49,5 +50,5 @@ Various insights were gotten from the analysis:
   4. Items with 'Pen' include Pencil, Pen, and Pen sets and the total sales is 8350.23
   5. Desk is the item that has 'sk' with 1700 in sales value
 
-See here for to refer to the table
+See here for to refer to the table:
 ![https://docs.google.com/spreadsheets/d/1w172xjC1XJ_TAVcsP1IZAl7ZGx2ns73EHxxBTKo6jVE/edit#gid=39021757]
