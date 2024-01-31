@@ -50,4 +50,5 @@ Various insights were gotten from the analysis:
   5. Desk is the item that has 'sk' with 1700 in sales value
 
 See here for to refer to the table:
+
 ![https://docs.google.com/spreadsheets/d/1w172xjC1XJ_TAVcsP1IZAl7ZGx2ns73EHxxBTKo6jVE/edit#gid=39021757]
