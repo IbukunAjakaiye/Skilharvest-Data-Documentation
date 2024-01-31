@@ -24,7 +24,6 @@ This includes some basic queries that was used for this analysis.
 ````
 GOOGLE SHEETS
 
-````
 QUERY(A:H,"SELECT C,H,F WHERE (C = 'Binder' OR C = 'Pencil') and F=2015",1)
 
 ````
@@ -38,8 +37,8 @@ QUERY(A:H, "SELECT E,F,H WHERE(E ='Aug' or E='Sep') and F=2014",1)
 
 ````
 =QUERY(A:H, "SELECT A, B, C, F, H WHERE C LIKE '%sk%'",1)
-````
 
+````
 
 
 ## Result/Findings
