@@ -21,22 +21,25 @@ This EDA involves exploring the Data to provide answers to these questions:
 ## Data Analysis
 This includes some basic queries that was used for this analysis.
 
-~~~~
+````
 GOOGLE SHEETS
 
 QUERY(A:H,"SELECT C,H,F WHERE (C = 'Binder' OR C = 'Pencil') and F=2015",1)
 
-~~~~
+````
 QUERY (A:H, "SELECT A,H,F WHERE(A='Central' or A='East') and F=2014",1)
 
-~~~~
+````
 QUERY(A:H, "SELECT E,F,H WHERE(E ='Aug' or E='Sep') and F=2014",1)
 
-~~~~
+````
 =QUERY(A:H, "SELECT A, B, C, F, H WHERE C LIKE 'Pen%'",1)
 
-~~~~
+````
 =QUERY(A:H, "SELECT A, B, C, F, H WHERE C LIKE '%sk%'",1)
+````
+
+
 
 ## Result/Findings
 Various insights were gotten from the analysis:
