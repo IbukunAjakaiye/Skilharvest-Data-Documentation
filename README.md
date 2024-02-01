@@ -1,5 +1,8 @@
 # Skillharvest-Data-Documentation
 
+**Documentation outline**
+- [Project Overview](#project-overview).
+
 ## Project Overview
 ---
 This project seeks to analyse stationary supplies with the aim of generating insights from the data for better decision making.
