@@ -1,6 +1,7 @@
 # Skillharvest-Data-Documentation
 
 ## Project Overview
+---
 This project seeks to analyse stationary supplies with the aim of generating insights from the data for better decision making.
 
 ## Data Sources
@@ -49,6 +50,12 @@ Various insights were gotten from the analysis:
   4. Items with 'Pen' include Pencil, Pen, and Pen sets and the total sales is 8350.23
   5. Desk is the item that has 'sk' with 1700 in sales value
 
-See here for to refer to the table:
+*See here for to refer to the table*:
 
 ![https://docs.google.com/spreadsheets/d/1w172xjC1XJ_TAVcsP1IZAl7ZGx2ns73EHxxBTKo6jVE/edit#gid=39021757]
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Data 1|Data 2|Data 3|
+
+
