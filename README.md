@@ -3,6 +3,12 @@
 **Documentation outline**
 - [Project Overview](#project-overview).
 - [Data Sources](#data-sources).
+- [Tools Used](#tools-used).
+- [Data cleaning and Preparation](#data-cleaning-and-preparation).
+- [Data Analysis](#data-analysis).
+- [Findings](#findings).
+- [Images from findings](#images-from-findings).
+
 
 ## Project Overview
 ---
@@ -46,7 +52,7 @@ QUERY(A:H, "SELECT E,F,H WHERE(E ='Aug' or E='Sep') and F=2014",1)
 ````
 
 
-## Result/Findings
+## Findings
 Various insights were gotten from the analysis:
   1. Sales of binders were more than pencils in 2015
   2. Central region had more sales than East region in 2014
