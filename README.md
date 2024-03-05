@@ -1,4 +1,4 @@
-# Skillharvest-Data-Documentation
+# Skilharvest-Data-Documentation
 
 **Documentation outline**
 - [Project Overview](#project-overview).
@@ -70,15 +70,15 @@ Various insights were gotten from the analysis:
 
 ## Images from findings
 
-![Screenshot (70)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/bc4bdcdf-626b-437e-801d-900197d06fe8)
+![Screenshot (70)](https://github.com/IbukunAjakaiye/Skilharvest-Data-Documentation/assets/81586815/bc4bdcdf-626b-437e-801d-900197d06fe8)
 
-![Screenshot (75)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/ef89871c-bc52-483f-aecb-f11552d48af4)
+![Screenshot (75)](https://github.com/IbukunAjakaiye/Skilharvest-Data-Documentation/assets/81586815/ef89871c-bc52-483f-aecb-f11552d48af4)
 
-![Screenshot (69)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/c4595b0b-3cea-4402-9a44-d372e2726a62)
+![Screenshot (69)](https://github.com/IbukunAjakaiye/Skilharvest-Data-Documentation/assets/81586815/c4595b0b-3cea-4402-9a44-d372e2726a62)
 
-![Screenshot (72)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/7044e639-01a5-4207-b748-2ac3c8bb7a77)
+![Screenshot (72)](https://github.com/IbukunAjakaiye/Skilharvest-Data-Documentation/assets/81586815/7044e639-01a5-4207-b748-2ac3c8bb7a77)
 
-![Screenshot (73)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/f2ce2f0d-87ae-4f6e-8074-eea7b942e8c9)
+![Screenshot (73)](https://github.com/IbukunAjakaiye/Skilharvest-Data-Documentation/assets/81586815/f2ce2f0d-87ae-4f6e-8074-eea7b942e8c9)
 
 
 
