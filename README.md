@@ -54,12 +54,31 @@ Various insights were gotten from the analysis:
   4. Items with 'Pen' include Pencil, Pen, and Pen sets and the total sales is 8350.23
   5. Desk is the item that has 'sk' with 1700 in sales value
 
-*See here for to refer to the table*:
+*See here to refer to the table*:
 
 ![https://docs.google.com/spreadsheets/d/1w172xjC1XJ_TAVcsP1IZAl7ZGx2ns73EHxxBTKo6jVE/edit#gid=39021757]
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Data 1|Data 2|Data 3|
+
+## Images from findings
+
+![Screenshot (70)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/bc4bdcdf-626b-437e-801d-900197d06fe8)
+
+![Screenshot (75)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/ef89871c-bc52-483f-aecb-f11552d48af4)
+
+![Screenshot (69)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/c4595b0b-3cea-4402-9a44-d372e2726a62)
+
+![Screenshot (72)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/7044e639-01a5-4207-b748-2ac3c8bb7a77)
+
+![Screenshot (73)](https://github.com/IbukunAjakaiye/Skillharvest-Data-Documentation/assets/81586815/f2ce2f0d-87ae-4f6e-8074-eea7b942e8c9)
+
+
+
+
+
+
+
 
 
