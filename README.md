@@ -64,8 +64,8 @@ Various insights were gotten from the analysis:
 
 ![https://docs.google.com/spreadsheets/d/1w172xjC1XJ_TAVcsP1IZAl7ZGx2ns73EHxxBTKo6jVE/edit#gid=39021757]
 
-|Region|Sales Rep|Item||Order Date||Month||Year||GDS Order Date||Sales|
-|---------|---------|---------||---------|---------|---------||---------|
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
 |Data 1|Data 2|Data 3|
 
 ## Images from findings
